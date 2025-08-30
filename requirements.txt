@@ -1,0 +1,2 @@
+numpy>=1.26
+jupyter>=1.0
